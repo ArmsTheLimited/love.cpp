@@ -6,6 +6,7 @@ then
 fi
 
 g++ /home/$USER/love/love.cpp/main.cpp $1 $2
+
 ./a.out
 
 love .
